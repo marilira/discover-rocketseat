@@ -157,7 +157,7 @@ O tabindex é uma forma de permitir a navegação no site através da tecla tab.
 O que é definido no atributo title é o que aparece quando deixamos o mouse descansando em cima de algum elemento.
 
 ### Caracteres reservados
-Para conseguir renderizar na tela caracteres como "<" que são de uso do HTML (reservados) e outros, usa-se esse tipo de coisa: <img src="images/caracteres-especiais-html5">
+Para conseguir renderizar na tela caracteres como "<" que são de uso do HTML (reservados) e outros, usa-se esse tipo de coisa: <img src="images/caracteres-especiais-html5.png" alt="Caracteres especiais no html 5">
 
 ### Documento HTML
 Anatomia de um documento HTML:
