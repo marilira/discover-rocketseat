@@ -1,0 +1,8 @@
+h1 {
+    border: 1px solid red;
+    margin: 200px;
+    padding: 60px;
+}
+/* margin é o espaçamento por fora da caixa 
+padding é o preenchimento da caixa, o espaço vazio dentro da caixa
+*/

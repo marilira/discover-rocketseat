@@ -1,0 +1,1 @@
+Trechos que o Mayke usou para exemplicar as coisas no [code pen](https://codepen.io/).
